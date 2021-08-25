@@ -11,9 +11,9 @@ public class UserServiceImpl implements UserService {
     //fake user list
 
     List<User> list = List.of(
-            new User(1311L, "Durgesh Tiwari", "23525625"),
-            new User(1312L, "Ankit Tiwari", "99999"),
-            new User(1314L, "Ravi Tiwari", "888")
+            new User(1405L, "Minto", "01733333333"),
+            new User(1406L, "Jaman", "01744444444"),
+            new User(1407L, "Mahadiur", "01755555555")
     );
 
     @Override
