@@ -7,13 +7,13 @@ user-service
 	/user/1344
 
 contact service
-	/port 9002/
+	/port/ 9002
 
 
 apigateway
-	/port 8999/
+	/port/ 8999
 
 
 eureka server 
-       /port 8761/
+       /port/ 8761
 
