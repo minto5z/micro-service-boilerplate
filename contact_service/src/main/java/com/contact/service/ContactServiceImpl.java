@@ -13,9 +13,8 @@ public class ContactServiceImpl implements ContactService {
 
     List<Contact> list = List.of(
             new Contact(1L, "minto@gmail.com", "Minto", 1405L),
-            new Contact(2L, "mahadur@gmail.com", "Mahadiur", 1406L),
-            new Contact(3L, "jaman@gmail.com", "Jaman", 1407L),
-            new Contact(4L, "test@gmail.com", "Test", 1408L)
+            new Contact(2L, "mahadur@gmail.com", "Mahadiur", 1405L),
+            new Contact(3L, "jaman@gmail.com", "Jaman", 1406L)
     );
 
 
